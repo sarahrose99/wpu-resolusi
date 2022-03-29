@@ -1,0 +1,6 @@
+Halo pak, salam kenal nama saya Sarah dari Medan. Saat ini saya masih kuliah.
+
+Resolusi saya:
+- membuat website menggunakan PHP
+- bekerja di start-up
+- membuat minigames menggunakan javascript
